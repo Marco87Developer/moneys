@@ -2,6 +2,4 @@
 ///
 library;
 
-// export 'src/moneys_base.dart';
-
-// TODO: Export any libraries intended for clients of this package.
+export 'src/exceptions/exception_messages.dart';
