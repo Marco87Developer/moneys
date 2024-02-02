@@ -4,4 +4,5 @@ library;
 
 export 'src/enums/currency.dart';
 export 'src/enums/discount_sequence.dart';
+export 'src/enums/money_transaction_method.dart';
 export 'src/exceptions/exception_messages.dart';
