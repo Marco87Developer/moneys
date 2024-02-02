@@ -1,0 +1,19 @@
+name: moneys
+description: Manage money, currencies, budgets and other related things with ease.
+version: 3.0.0
+repository: https://github.com/Marco87Developer/moneys
+# homepage: https://marco87.dev
+
+environment:
+  sdk: ^3.2.6
+
+dependencies:
+  collection: ^1.18.0
+  geos: ^2.1.2
+  helpers_plethora: ^2.2.0
+  intl: ^0.18.1
+  meta: ^1.11.0
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.25.2
