@@ -2,4 +2,5 @@
 ///
 library;
 
+export 'src/enums/currency.dart';
 export 'src/exceptions/exception_messages.dart';
